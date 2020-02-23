@@ -20,15 +20,22 @@ a poverful CNN network which can help you make prediction on the captcha
 --------------------------------------
 
 ### Input and Output
+Input is the image, which is jpg format, we will read in it, treat it as a array and then save it by using tfrecord.
 
+Output is a classification possibility, for example [0,0,0,0,0,0,0,0,0.2,0.8], because 10 has the highest possibility, thus we think this label is 10.
 
 
 ### Performance
+After about 5000 iterations, we got 100% accuracy for this task:
 
+![Image text](https://github.com/Neural-Finance/Cross_sample_financial_feature_engineering/blob/master/fig/2.png)
+
+The prediction result:
+
+![Image text](https://github.com/Neural-Finance/Cross_sample_financial_feature_engineering/blob/master/fig/4.png)
 
 
 ### Further Research
-
-
+Beacuse this is a simple case, sometimes, the captcha can be a n-length picture. Thus, we have to cut the picture and train each number individually. If you have interested in this more sophisticated case, please refer to my corresponding work in this field. However, if you sure that the captach is fixed length, you can just leverage this porject.
 
 **Thanks for your patience to read here, if you like this job, please give me a star, thanks.**
