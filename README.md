@@ -33,7 +33,7 @@ After about 5000 iterations, we got 100% accuracy for this task:
 
 The prediction result:
 
-![Image text](https://github.com/Neural-Finance/Captcha-Recognition-Digit-Number/blob/master/.png)
+![Image text](https://github.com/Neural-Finance/Captcha-Recognition-Digit-Number/blob/master/4.png)
 
 
 ### Further Research
