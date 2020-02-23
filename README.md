@@ -24,15 +24,16 @@ Input is the image, which is jpg format, we will read in it, treat it as a array
 
 Output is a classification possibility, for example [0,0,0,0,0,0,0,0,0.2,0.8], because 10 has the highest possibility, thus we think this label is 10.
 
+![Image text](https://github.com/Neural-Finance/Captcha-Recognition-Digit-/blob/master/3.png)
 
 ### Performance
 After about 5000 iterations, we got 100% accuracy for this task:
 
-![Image text](https://github.com/Neural-Finance/Cross_sample_financial_feature_engineering/blob/master/fig/2.png)
+![Image text](https://github.com/Neural-Finance/Captcha-Recognition-Digit-/blob/master/2.png)
 
 The prediction result:
 
-![Image text](https://github.com/Neural-Finance/Cross_sample_financial_feature_engineering/blob/master/fig/4.png)
+![Image text](https://github.com/Neural-Finance/Captcha-Recognition-Digit-/blob/master/4.png)
 
 
 ### Further Research
