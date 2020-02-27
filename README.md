@@ -15,7 +15,7 @@ Once you need to make a solution for some captcha recognition, the first thing y
 
 **Alexnet.py**
 
-a poverful CNN network which can help you make prediction on the captcha
+a poverful CNN network which can help you extract features (information) from the picture
 
 ![Image text](https://github.com/Neural-Finance/Captcha-Recognition-Digit-Number/blob/master/1.png)
 
