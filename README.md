@@ -41,4 +41,4 @@ The prediction result:
 ### Further Research
 Beacuse this is a simple case, sometimes, the captcha can be a n-length picture. Thus, we have to cut the picture and train each number individually. If you have interested in this more sophisticated case, please refer to my corresponding work in this field. However, if you sure that the captach is fixed length, you can just leverage this porject.
 
-**Thanks for your patience to read here, if you like this job, please give me a star, thanks.**
+**Thanks for your patience to read here. I will be really glad, if you like this work.**
