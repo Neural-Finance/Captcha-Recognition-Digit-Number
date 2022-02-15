@@ -8,11 +8,21 @@ Once you need to make a solution for some captcha recognition, the first thing y
 --------------------------------------
 
 **Main.py** 
-
+```
 1.check the environment and make folder; 
-
-2.generate the training data; 3.save the training data as tf recoder; 4.training the network; 5.test the captcha
-
+```
+```
+2.generate the training data; 
+```
+```
+3.save the training data as tf recoder; 
+```
+```
+4.training the network; 
+```
+```
+5.test the captcha
+```
 --------------------------------------
 
 **Alexnet.py**
